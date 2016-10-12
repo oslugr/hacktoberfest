@@ -1,7 +1,3 @@
----
-layout: index
----
-
 # HacktoberFest
 
 Lista de proyectos de la [UGR](http://www.ugr.es) que participan en la
