@@ -17,6 +17,7 @@ que son los únicos elegibles para la camiseta.
 |[CuantoQuedaBot](http://github.com/JJ/CuantoQuedaBot)| Bot de Telegram para responder preguntas sobre una asignatura | Go | docencia | [Issues](https://github.com/JJ/CuantoQuedaBot/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest) |
 |[Transparente UGR](http://github.com/oslugr/ugr-transparente-servidor/)| Código del portal de Transparencia de la UGR | Node.js | administración | [Issues](https://github.com/oslugr/ugr-transparente-servidor/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest) |
 |[Apuntes de Cloud Computing](http://github.com/JJ/CC)| Apuntes de una asignatura del máster de Ingeniería Informática | Markdown | docencia | [Issues](https://github.com/JJ/CC/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest) |
+|[yamp](https://github.com/angrykoala/yamp) | Yet Another Markdown Parser | Node.js | - | [Issues](https://github.com/angrykoala/yamp/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest) |
 
 
 ## Sitio web
