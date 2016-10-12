@@ -13,7 +13,7 @@ que son los únicos elegibles para la camiseta.
 
 
 | Proyecto  | Nombre y descripción | Lenguaje(s)  | Tipo (docencia, investigación, administración) | Enlace a issues marcados `Hacktoberfest` |
-  |:-:|:-:|:-:|:-:|:-:|
+|:-:|:-:|:-:|:-:|:-:|
 |CuantoQuedaBot| Bot de Telegram para responder preguntas sobre una asignatura | Go | docencia | [Issues](https://github.com/JJ/CuantoQuedaBot/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
 |Transparente UGR| Código del portal de Transparencia de la UGR | Node.js | administración | [Issues](https://github.com/oslugr/ugr-transparente-servidor/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
 
