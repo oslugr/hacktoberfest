@@ -20,6 +20,7 @@ que son los únicos elegibles para la camiseta.
 |[Algoritmos evolutivos en Node](https://github.com/JJ/nodeo/)|Biblioteca en node.js para trabajar con algoritmos evolutivos | Node.js (Javascript) | investigación | [Issues](https://github.com/JJ/nodeo/issues) |
 |[yamp](https://github.com/angrykoala/yamp) | Yet Another Markdown Parser | Node.js | otro | [Issues](https://github.com/angrykoala/yamp/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest) |
 |[Blog LibreIM](https://github.com/libreim/blog/)| Blog sobre informática y matemáticas | HTML/Ruby | otro | [Issues](https://github.com/libreim/blog/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest) |
+|[Java practice](https://github.com/kant003/JavaPracticeHacktoberfest/)| Ejemplos sencillos de java | Java | Docencia | [Issues](https://github.com/kant003/JavaPracticeHacktoberfest/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest) |
 
 
 ## Sitio web
